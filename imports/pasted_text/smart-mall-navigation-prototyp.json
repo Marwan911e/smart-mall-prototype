@@ -1,0 +1,251 @@
+Create a complete interactive high-fidelity mobile application prototype for a Human-Computer Interaction project titled “Smart Mall Navigation & Shopping Assistant.” The prototype must be fully connected screen-to-screen with realistic navigation flow, clickable interactions, transitions, overlays, and live prototype behavior suitable for Figma presentation mode and real application preview.
+
+The prototype should directly follow the storyboard scenario:
+A shopper enters a crowded mall searching for black cargo pants, becomes confused by unclear signs, opens the Smart Mall app, searches for the product, receives recommended stores and low-crowd navigation routes, then successfully reaches the destination store.
+
+The interface must visually match the existing low-fidelity prototype, storyboard, affinity diagram, personas, and presentation theme.
+
+Visual Style Requirements:
+
+* Apple-inspired minimalist mobile UI
+* Futuristic smart shopping assistant aesthetic
+* Light gray grid background
+* Dark blue, bright blue, white, and soft gray color palette
+* Glassmorphism cards with frosted transparency
+* Rounded corners and smooth geometry
+* Soft shadows and subtle depth
+* Thin modern outlines
+* Elegant typography hierarchy
+* Modern sans-serif fonts
+* Consistent spacing and alignment
+* Clean visual hierarchy
+* Premium interface quality similar to Apple Maps and modern shopping applications
+* Consistent design system across all screens
+
+UX Goals:
+
+* Reduce navigation confusion
+* Improve product discovery
+* Avoid crowded areas
+* Reduce unnecessary walking
+* Provide real-time shopping guidance
+* Improve shopping efficiency and comfort
+
+Create these fully connected prototype screens:
+
+1. Splash Screen
+
+* Smart Mall logo
+* Minimal futuristic animation
+* “Smart Mall Assistant”
+* Smooth transition to home screen
+
+2. Home Screen
+   Features:
+
+* Smart search bar
+* “Find by Style”
+* “Indoor Navigation”
+* “Live Crowd Map”
+* “Café Availability”
+* Personalized recommendations
+* Recently searched products
+* Bottom navigation bar
+
+3. Product Search Screen
+
+* Upload clothing image feature
+* AI analyzes clothing style
+* Search suggestions appear dynamically
+* Filters:
+
+  * brand,
+  * floor,
+  * price,
+  * crowd level,
+  * distance
+
+4. Product Results Screen
+
+* Product cards with:
+
+  * product image,
+  * store name,
+  * floor number,
+  * distance,
+  * crowd level,
+  * navigation button
+* Smart recommendations
+* Sorting options
+
+5. Crowd Heatmap Screen
+
+* Real-time mall density visualization
+* Green/yellow/red crowd indicators
+* Congested area warnings
+* Alternative route suggestions
+* Live updates
+
+6. Indoor Navigation Screen
+
+* Turn-by-turn navigation
+* AR-inspired path guidance
+* Escalator/elevator indicators
+* Estimated arrival time
+* Dynamic rerouting if crowded
+
+7. Café Availability Screen
+
+* Café occupancy indicators
+* Quiet cafés for studying
+* Estimated waiting time
+* Seating availability
+* Crowd filters
+
+8. Notifications Screen
+
+* Crowd alerts
+* Navigation rerouting
+* Store recommendations
+* Promotional updates
+* Real-time notifications
+
+9. Profile & Preferences Screen
+
+* Favorite brands
+* Saved locations
+* Shopping preferences
+* Crowd sensitivity settings
+* Accessibility preferences
+
+10. Destination Success Screen
+
+* “You’ve Arrived”
+* Store confirmation
+* Recommended nearby products
+* Satisfaction animation
+* Continue shopping option
+
+Interaction Requirements:
+
+* All screens must be fully interconnected
+* Add realistic transitions and animations
+* Include tap gestures, swipe interactions, overlays, and microinteractions
+* Simulate real mobile app behavior
+* Add interactive prototype logic
+* Include realistic loading states and progress indicators
+* Maintain navigation consistency across screens
+
+Apply These Gestalt Principles Explicitly:
+
+1. Proximity
+   Group related information visually together to reduce cognitive load and improve scanning.
+
+Examples:
+
+* Product image + store + crowd level inside unified cards
+* Navigation actions grouped together
+* Crowd map legend grouped in one area
+
+2. Similarity
+   Use consistent colors, typography, buttons, icons, and card layouts throughout the application to improve recognition and interface consistency.
+
+Examples:
+
+* All primary buttons use identical blue styling
+* Product cards share the same structure
+* Navigation icons remain visually consistent
+
+3. Visual Hierarchy
+   Use typography size, contrast, spacing, and color emphasis to guide attention toward important actions.
+
+Examples:
+
+* “Navigate” button visually emphasized
+* Crowd warnings highlighted using stronger contrast
+* Search actions larger than secondary actions
+
+Apply These UI Design Patterns Explicitly:
+
+1. Bottom Navigation Pattern
+   Persistent bottom navigation bar with:
+
+* Home
+* Search
+* Crowd Map
+* Notifications
+* Profile
+
+Reason:
+Fast navigation and familiar mobile interaction model.
+
+2. Card-Based Interface Pattern
+   Use glassmorphism cards for:
+
+* products,
+* stores,
+* recommendations,
+* cafés,
+* crowd information.
+
+Reason:
+Improves organization and readability.
+
+3. Search & Filter Pattern
+   Advanced search and filtering system for:
+
+* products,
+* brands,
+* crowd level,
+* distance,
+* floor selection.
+
+Reason:
+Improves shopping efficiency and product discovery.
+
+4. Progress Feedback Pattern
+   Include:
+
+* loading indicators,
+* navigation progress,
+* route updates,
+* live crowd changes.
+
+Reason:
+Supports visibility of system status and reduces uncertainty.
+
+5. Recommendation Pattern
+   AI-generated recommendations for:
+
+* products,
+* stores,
+* alternative routes,
+* cafés.
+
+Reason:
+Improves personalization and decision-making.
+
+Accessibility & Usability Requirements:
+
+* Large tap targets
+* Clear readability
+* High visual clarity
+* Simple interaction flow
+* Minimal cognitive load
+* Strong contrast hierarchy
+* Easy navigation for first-time users
+
+Prototype Consistency Requirements:
+
+* Maintain the same visual identity across all screens
+* Match the low-fi wireframes and storyboard flow
+* Align with HTA structure and user journey maps
+* Ensure all persona pain points are addressed:
+
+  * navigation confusion,
+  * crowd congestion,
+  * unclear mall organization,
+  * difficulty finding products,
+  * lack of real-time information
+
+The final result should feel like a premium futuristic real-world mobile application prototype, highly polished, visually consistent, academically correct for HCI, presentation-ready, and fully interactive for usability testing demonstrations in Figma.
